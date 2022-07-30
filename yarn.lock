@@ -2327,7 +2327,7 @@ is-path-inside@^2.1.0:
 
 is-plain-obj@^1.0.0:
   version "1.1.0"
-  resolved "https://registry.npmmirror.com/is-plain-obj/-/is-plain-obj-1.1.0.tgz"
+  resolved "https://registry.npmmirror.com/is-plain-obj/-/is-plain-obj-1.1.0.tgz#71a50c8429dfca773c92a390a4a03b39fcd51d3e"
   integrity sha512-yvkRyxmFKEOQ4pNXCmJG5AEQNlXJS5LaONXo5/cLdTZdWvsZ1ioJEonLGAosKlMWE8lwUy/bJzMjcw8az73+Fg==
 
 is-plain-object@^2.0.3, is-plain-object@^2.0.4:
@@ -2675,7 +2675,7 @@ mime@^2.4.4:
 
 mini-css-extract-plugin@^0.8.0:
   version "0.8.2"
-  resolved "https://registry.npmmirror.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.8.2.tgz"
+  resolved "https://registry.npmmirror.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.8.2.tgz#a875e169beb27c88af77dd962771c9eedc3da161"
   integrity sha512-a3Y4of27Wz+mqK3qrcd3VhYz6cU0iW5x3Sgvqzbj+XmlrSizmvu8QQMl5oMYJjgHOC4iyt+w7l4umP+dQeW3bw==
   dependencies:
     loader-utils "^1.1.0"
@@ -2878,7 +2878,7 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
 
 normalize-url@1.9.1:
   version "1.9.1"
-  resolved "https://registry.npmmirror.com/normalize-url/-/normalize-url-1.9.1.tgz"
+  resolved "https://registry.npmmirror.com/normalize-url/-/normalize-url-1.9.1.tgz#2cc0d66b31ea23036458436e3620d85954c66c3c"
   integrity sha512-A48My/mtCklowHBlI8Fq2jFWK4tX4lJ5E6ytFsSOq1fzpvT0SQSgKhSg7lN5c2uYFOrUAOQp6zhhJnpp1eMloQ==
   dependencies:
     object-assign "^4.0.1"
@@ -3240,7 +3240,7 @@ postcss@^7.0.14, postcss@^7.0.32, postcss@^7.0.5, postcss@^7.0.6:
 
 prepend-http@^1.0.0:
   version "1.0.4"
-  resolved "https://registry.npmmirror.com/prepend-http/-/prepend-http-1.0.4.tgz"
+  resolved "https://registry.npmmirror.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha512-PhmXi5XmoyKw1Un4E+opM2KcsJInDvKyuOumcjjw3waw86ZNjHwVUOOWLc4bCzLdcKNaWBH9e99sbWzDQsVaYg==
 
 pretty-error@^2.0.2:
@@ -3340,7 +3340,7 @@ qs@6.10.3:
 
 query-string@^4.1.0:
   version "4.3.4"
-  resolved "https://registry.npmmirror.com/query-string/-/query-string-4.3.4.tgz"
+  resolved "https://registry.npmmirror.com/query-string/-/query-string-4.3.4.tgz#bbb693b9ca915c232515b228b1a02b609043dbeb"
   integrity sha512-O2XLNDBIg1DnTOa+2XrIwSiXEV8h2KImXUnjhhn2+UsvZ+Es2uyd5CCRTNQlDGbzUQOW3aYCBx9rVA6dzsiY7Q==
   dependencies:
     object-assign "^4.1.0"
@@ -3799,7 +3799,7 @@ sockjs@^0.3.21:
 
 sort-keys@^1.0.0:
   version "1.1.2"
-  resolved "https://registry.npmmirror.com/sort-keys/-/sort-keys-1.1.2.tgz"
+  resolved "https://registry.npmmirror.com/sort-keys/-/sort-keys-1.1.2.tgz#441b6d4d346798f1b4e49e8920adfba0e543f9ad"
   integrity sha512-vzn8aSqKgytVik0iwdBEi+zevbTYZogewTUM6dtpmGwEcdzbub/TX4bCzRhebDCRC3QzXgJsLRKB2V/Oof7HXg==
   dependencies:
     is-plain-obj "^1.0.0"
@@ -3937,7 +3937,7 @@ stream-shift@^1.0.0:
 
 strict-uri-encode@^1.0.0:
   version "1.1.0"
-  resolved "https://registry.npmmirror.com/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz"
+  resolved "https://registry.npmmirror.com/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz#279b225df1d582b1f54e65addd4352e18faa0713"
   integrity sha512-R3f198pcvnB+5IpnBlRkphuE9n46WyVl8I39W/ZUTZLz4nqSP/oLYUrcnJrw462Ds8he4YKMov2efsTIw1BDGQ==
 
 string-width@^3.0.0, string-width@^3.1.0:
@@ -4426,7 +4426,7 @@ webpack-log@^2.0.0:
 
 webpack-sources@^1.1.0, webpack-sources@^1.4.0, webpack-sources@^1.4.1:
   version "1.4.3"
-  resolved "https://registry.npmmirror.com/webpack-sources/-/webpack-sources-1.4.3.tgz"
+  resolved "https://registry.npmmirror.com/webpack-sources/-/webpack-sources-1.4.3.tgz#eedd8ec0b928fbf1cbfe994e22d2d890f330a933"
   integrity sha512-lgTS3Xhv1lCOKo7SA5TjKXMjpSM4sBjNV5+q2bqesbSPs5FjGmU6jjtBSkX9b4qW87vDIsCIlUPOEhbZrMdjeQ==
   dependencies:
     source-list-map "^2.0.0"
